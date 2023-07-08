@@ -38,7 +38,21 @@ a:hover {
     
 }
 
+/* logo */
+.logo img{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 35px;
+    top: 30px; 
+    margin-left: 500px;
+    text-align: center;
+}
 
+.main{
+    width: 100%;
+    position: relative;
+}
 /*
  * Base structure
  */
