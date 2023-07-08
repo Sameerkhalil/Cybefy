@@ -42,7 +42,7 @@ a:hover {
     width: 70px;
     height: 70px;
     position: absolute;
-    left: 35px;
+    left: 25px;
     top: 30px; 
     margin-left: 500px;
     text-align: center;
@@ -104,8 +104,8 @@ body {
 
 @media (min-width: 768px) {
   .masthead-brand {
-    float: right;
-    font-size: 40px;
+    float: center;
+    font-size: 45px;
     font-weight: bold;
     }
   .nav-masthead {
