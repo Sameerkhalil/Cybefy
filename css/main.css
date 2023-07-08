@@ -105,7 +105,10 @@ body {
 
 @media (min-width: 768px) {
   .masthead-brand {
-    float: left; }
+    float: center;
+    font-size: 40px;
+    font-weight: bold;
+    }
   .nav-masthead {
     float: right; } }
 
