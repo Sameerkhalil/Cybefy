@@ -104,7 +104,7 @@ body {
 
 @media (min-width: 768px) {
   .masthead-brand {
-    float: center;
+    float: right;
     font-size: 40px;
     font-weight: bold;
     }
